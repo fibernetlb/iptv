@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CH 01" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/BeIN Sports HD 1.png",Bein Sports HD 1
+http://sat.fibernetlb.net:8099/1.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 02" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/BeIN Sports HD 2.png",Bein Sports HD 2
+http://sat.fibernetlb.net:8099/2.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 03" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/BeIN Sports HD 3.png",Bein Sports HD 3
+http://sat.fibernetlb.net:8099/3.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 04" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/BeIN Sports HD 4.png",Bein Sports HD 4
+http://sat.fibernetlb.net:8099/4.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 05" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/BeIN Sports HD 5.png",Bein Sports HD 5
+http://sat.fibernetlb.net:8099/5.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 06" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/BeIN Sports HD 6.png",Bein Sports HD 6
+http://sat.fibernetlb.net:8099/6.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 07" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/BeIN Sports HD 7.png",Bein Sports HD 7
+http://sat.fibernetlb.net:8099/7.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 08" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/BeIN Sports HD 8.png",Bein Sports HD 8
+http://sat.fibernetlb.net:8099/8.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 09" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/BeIN Sports HD 9.png",Bein Sports HD 9
+http://sat.fibernetlb.net:8099/9.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 10" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/BeIN Sports HD 10.png",Bein Sports HD 10
+http://sat.fibernetlb.net:8099/10.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 11" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/Bein Sports HD NBA.png",Bein Sports HD NBA
+http://sat.fibernetlb.net:8099/11.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 12" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/beIN Movies HD1 Premier.png",beIN Movies HD1 Premier
+http://sat.fibernetlb.net:8099/12.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 13" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/beIN Movies HD2 Action.png",beIN Movies HD2 Action
+http://sat.fibernetlb.net:8099/13.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 14" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/beIN Series HD1.png",beIN Series HD1
+http://sat.fibernetlb.net:8099/14.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 15" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/beIN Drama HD.png",beIN Drama HD
+http://sat.fibernetlb.net:8099/15.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 16" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/MBC+ Drama HD.png",MBC+ Drama HD
+http://sat.fibernetlb.net:8099/16.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 17" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/Fox Rewayat HD.png",Fox Rewayat HD
+http://sat.fibernetlb.net:8099/17.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 18" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/OSN Ya Hala HD.png",OSN Ya Hala HD
+http://sat.fibernetlb.net:8099/18.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 19" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/OSN OSN Ya Hala Al Oula HD.png",OSN Ya Hala Al Oula HD
+http://sat.fibernetlb.net:8099/19.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 20" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/OSN Ya Hala Cinema HD.png",OSN Ya Hala Cinema HD
+http://sat.fibernetlb.net:8099/20.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 21" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/OSN Movies HD.png",OSN Movies HD
+http://sat.fibernetlb.net:8099/21.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 22" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/OSN Movies First HD.png",OSN Movies First HD
+http://sat.fibernetlb.net:8099/22.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 23" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/OSN Movies Action HD.png",OSN Movies Action HD
+http://sat.fibernetlb.net:8099/23.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 24" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/OSN enigma HD.png",OSN enigma HD
+http://sat.fibernetlb.net:8099/24.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 25" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/OSN Movies Comedy HD.png",OSN Movies Comedy HD
+http://sat.fibernetlb.net:8099/25.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 26" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/OSN Movies Disney HD",OSN Movies Disney HD
+http://sat.fibernetlb.net:8099/26.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 27" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/OSN Movies Kids HD.png",OSN Movies Kids HD
+http://sat.fibernetlb.net:8099/27.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 28" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/Disney Channel HD.png",Disney Channel HD
+http://sat.fibernetlb.net:8099/28.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 29" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/Disney Junior HD.png",Disney Junior HD
+http://sat.fibernetlb.net:8099/29.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 30" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/Nickelodeon HD.png",Nickelodeon HD
+http://sat.fibernetlb.net:8099/30.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 31" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/Nickelodeon Junior HD.png",Nickelodeon Junior HD
+http://sat.fibernetlb.net:8099/31.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 32" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/Baby TV HD.png",Baby TV HD
+http://203.0.0.2:8099/32.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 33" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/Baraem HD.png",Baraem HD
+http://sat.fibernetlb.net:8099/33.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 34" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/Tiji HD.png",Tiji HD
+http://sat.fibernetlb.net:8099/34.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 35" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/WWE HD.png",WWE HD
+http://sat.fibernetlb.net:8099/35.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 36" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/National Geographic HD.png",National Geographic HD
+http://sat.fibernetlb.net:8099/36.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 37" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/National Geographic Wild HD.png",National Geographic Wild HD
+http://sat.fibernetlb.net:8099/37.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 38" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/Discovery Science HD.png",Discovery Science HD
+http://sat.fibernetlb.net:8099/38.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 39" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/Discovery ID HD.png",Discovery ID HD
+http://sat.fibernetlb.net:8099/39.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 40" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/fatafeat HD.png",fatafeat HD
+http://sat.fibernetlb.net:8099/40.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 41" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/Al Mayadeen HD.png",Al Mayadeen HD
+http://sat.fibernetlb.net:8099/41.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 42" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/Al Manar HD.png",Al Manar HD
+http://sat.fibernetlb.net:8099/42.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 43" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/NBN HD.png",NBN HD
+http://sat.fibernetlb.net:8099/43.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 44" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/OTV HD.png",OTV HD
+http://sat.fibernetlb.net:8099/44.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 45" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/LBCI HD.png",LBCI HD
+http://sat.fibernetlb.net:8099/45.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 46" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/LBC2 HD.png",LBC2 HD
+http://sat.fibernetlb.net:8099/46.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 47" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/Al Jadeed HD.png",Al Jadeed HD
+http://sat.fibernetlb.net:8099/47.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 48" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/MTV Lebanon HD.png",MTV Lebanon HD
+http://sat.fibernetlb.net:8099/48.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 49" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/TeleLiban HD.png",TeleLiban HD
+http://sat.fibernetlb.net:8099/49.ch?u=emby:p=2286345990
+#EXTINF:-1 tvg-id="CH 50" group-title="TV Channels" tvg-logo="http://203.0.0.2:17000/media/logo/TEST.png",TEST
+http://sat.fibernetlb.net:8099/50.ch?u=emby:p=2286345990
